@@ -1,0 +1,23 @@
+2025-07-10 12:11:46,271 - solr-links-checker - INFO - Reading configuration from: ../etc/testcore.yml
+2025-07-10 12:11:46,577 - solr-links-checker - INFO - Number found: 10
+2025-07-10 12:11:47,039 - solr-links-checker - INFO - Finished fetching URLs list
+2025-07-10 12:11:47,390 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/49e70983-9eab-54fb-824a-93cacce5952a id: no.met.adc:49e70983-9eab-54fb-824a-93cacce5952a Status code: 404
+2025-07-10 12:11:47,394 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/cbfc9429-49c2-573a-9c36-bc83a8893422 id: no.met.adc:cbfc9429-49c2-573a-9c36-bc83a8893422 Status code: 404
+2025-07-10 12:11:47,402 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/8b37a406-5a74-5ffa-9826-5434d6e97dd9 id: no.met.adc:8b37a406-5a74-5ffa-9826-5434d6e97dd9 Status code: 404
+2025-07-10 12:11:47,414 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/75b77101-36bf-5324-bf81-0fb975fa6142 id: no.met.adc:75b77101-36bf-5324-bf81-0fb975fa6142 Status code: 404
+2025-07-10 12:11:47,422 - solr-links-checker - WARNING - BROKEN: link https://ogc-wms-from-netcdf-dev.k8s.met.no/klimakverna/ensemble-mean_ssp370_both-bc-sn2018v2005_rawbc_norway_1km_change-pr.nc?SERVICE=WMS&REQUEST=GetCapabilities id: no.met.adc:b6d9b196-f834-54a9-8bf7-af8d683b45eb Status code: 400
+2025-07-10 12:11:47,426 - solr-links-checker - WARNING - BROKEN: link https://ogc-wms-from-netcdf-dev.k8s.met.no/klimakverna/ensemble-mean_rcp26_both-bc-sn2018v2005_rawbc_norway_1km_change-pr.nc?SERVICE=WMS&REQUEST=GetCapabilities id: no.met.adc:bd2546ea-bba5-55e4-a18e-657521c6e4e3 Status code: 400
+2025-07-10 12:11:47,429 - solr-links-checker - WARNING - BROKEN: link https://ogc-wms-from-netcdf-dev.k8s.met.no/klimakverna/ensemble-mean_ssp370_both-bc-sn2018v2005_rawbc_norway_1km_diff-tas.nc?SERVICE=WMS&REQUEST=GetCapabilities id: no.met.adc:7b235c42-aa10-5fba-b98d-53e5b1e2034a Status code: 400
+2025-07-10 12:11:47,433 - solr-links-checker - WARNING - BROKEN: link https://ogc-wms-from-netcdf-dev.k8s.met.no/klimakverna/ensemble-mean_rcp26_both-bc-sn2018v2005_rawbc_norway_1km_change-pr.nc?SERVICE=WMS&REQUEST=GetCapabilities id: no.met.adc:9354b3cb-2794-5769-977b-c511778b985f Status code: 400
+2025-07-10 12:11:47,435 - solr-links-checker - WARNING - BROKEN: link https://ogc-wms-from-netcdf-dev.k8s.met.no/klimakverna/ensemble-mean_ssp370_both-bc-sn2018v2005_rawbc_norway_1km_diff-tas.nc?SERVICE=WMS&REQUEST=GetCapabilities id: no.met.adc:1c4cd1e6-4132-56ac-bcbd-2acae3dcb927 Status code: 400
+2025-07-10 12:11:47,438 - solr-links-checker - WARNING - BROKEN: link https://ogc-wms-from-netcdf-dev.k8s.met.no/klimakverna/ensemble-mean_ssp370_both-bc-sn2018v2005_rawbc_norway_1km_change-pr.nc?SERVICE=WMS&REQUEST=GetCapabilities id: no.met.adc:226730d4-c49d-566b-9466-b024409fa665 Status code: 400
+2025-07-10 12:11:47,957 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/b6d9b196-f834-54a9-8bf7-af8d683b45eb id: no.met.adc:b6d9b196-f834-54a9-8bf7-af8d683b45eb Status code: 404
+2025-07-10 12:11:47,959 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/1c4cd1e6-4132-56ac-bcbd-2acae3dcb927 id: no.met.adc:1c4cd1e6-4132-56ac-bcbd-2acae3dcb927 Status code: 404
+2025-07-10 12:11:47,961 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/7b235c42-aa10-5fba-b98d-53e5b1e2034a id: no.met.adc:7b235c42-aa10-5fba-b98d-53e5b1e2034a Status code: 404
+2025-07-10 12:11:47,963 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/bd2546ea-bba5-55e4-a18e-657521c6e4e3 id: no.met.adc:bd2546ea-bba5-55e4-a18e-657521c6e4e3 Status code: 404
+2025-07-10 12:11:47,965 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/226730d4-c49d-566b-9466-b024409fa665 id: no.met.adc:226730d4-c49d-566b-9466-b024409fa665 Status code: 404
+2025-07-10 12:11:47,966 - solr-links-checker - WARNING - BROKEN: link https://adc.met.no/dataset/9354b3cb-2794-5769-977b-c511778b985f id: no.met.adc:9354b3cb-2794-5769-977b-c511778b985f Status code: 404
+2025-07-10 12:11:47,967 - solr-links-checker - INFO - URLs checked: 28
+2025-07-10 12:11:47,967 - solr-links-checker - INFO - URLs broken: 16
+2025-07-10 12:11:47,967 - solr-links-checker - INFO - URLs Unreachable: 0
+2025-07-10 12:11:47,967 - solr-links-checker - INFO - Duration: 0:00:00.928130
